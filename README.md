@@ -1,4 +1,4 @@
-# Overview of dissertation
+# Overview of my work on semantic graphs
 
 This is an overview over the code/data associated with my dissertation.
 
