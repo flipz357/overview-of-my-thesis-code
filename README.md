@@ -3,10 +3,6 @@
 This is an overview over the code/data associated with my dissertation.
 
 ## AMR tools
-
-### Graph processing, reading, writing
-
-- [Smatch++](https://github.com/flipz357/smatchpp), [📜](https://aclanthology.org/2023.findings-eacl.118/): can read and modify graphs, standardization, sub-graph extraction
                                                   
 ### AMR metrics & AMR-to-AMR alignment
 
@@ -18,7 +14,11 @@ This is an overview over the code/data associated with my dissertation.
 #### Advanced matching beyond structure
 
 - [S2match](https://github.com/Heidelberg-NLP/amr-metric-suite), [📜](https://aclanthology.org/2020.tacl-1.34/): Smatch matching with node labels matched via word embeddings
-- [WWLK](https://github.com/flipz357/weisfeiler-leman-amr-metrics), [📜](https://aclanthology.org/2021.tacl-1.85/): Weisfeiler Leman AMR Kernel with embeddings for contextualied matching, many-to-many node alignment 
+- [WWLK](https://github.com/flipz357/weisfeiler-leman-amr-metrics), [📜](https://aclanthology.org/2021.tacl-1.85/): Weisfeiler Leman AMR Kernel with embeddings for contextualied matching, many-to-many node alignment
+
+### Graph processing, reading, writing
+
+- [Smatch++](https://github.com/flipz357/smatchpp), [📜](https://aclanthology.org/2023.findings-eacl.118/): can read and modify graphs, standardization, sub-graph extraction
 
 ### AMR-to-text alignment
 
