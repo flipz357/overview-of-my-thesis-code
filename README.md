@@ -1,6 +1,6 @@
 # Overview of dissertation
 
-This is an overview over the works associated with my dissertation.
+This is an overview over the code/data associated with my dissertation.
 
 ## AMR tools
 
