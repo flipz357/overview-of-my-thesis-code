@@ -28,7 +28,7 @@ This is an overview over the works associated with my dissertation.
 ## AMR applications
 
 - [Explainable NLG evaluation](https://github.com/flipz357/MFscore), [📜](https://aclanthology.org/2021.eacl-main.129/): Evaluation of NLG systems in meaning space
-- [Explainable semantic search (S$^3$BERT)](https://github.com/flipz357/S3BERT), [📜](https://aclanthology.org/2022.aacl-main.48/): Infusing fine-grained similarity into a state-of-the-art sentence embedding model for explainable and decomposable embeddings
+- [Explainable semantic search (S3BERT)](https://github.com/flipz357/S3BERT), [📜](https://aclanthology.org/2022.aacl-main.48/): Infusing fine-grained similarity into a state-of-the-art sentence embedding model for explainable and decomposable embeddings
 - [AMR4NLI](https://github.com/flipz357/amr4nli), [📜](https://arxiv.org/abs/2306.00936): Asymmetric and unsupervised application of MR metrics for transparent entailment rating
 - [Argument similarity], [📜](https://aclanthology.org/2021.argmining-1.3/): Unsupervised application of MR metrics similarity of natural langauge arguments
 
