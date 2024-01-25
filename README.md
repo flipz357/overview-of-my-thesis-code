@@ -8,7 +8,7 @@ This is an overview over the code/data associated with my dissertation.
 
 #### Structural matching
 
-- [Smatch++](https://github.com/flipz357/smatchpp), [📜](https://aclanthology.org/2023.findings-eacl.118/): optimal/standardized Smatch and subgraph Smatch
+- [Smatch++](https://github.com/flipz357/smatchpp), [📜](https://aclanthology.org/2023.findings-eacl.118/): optimal and standardized Smatch 
 - [Smaragd](https://github.com/PhMeier/Smaragd/), [📜](https://arxiv.org/abs/2203.13226): fast approximated Smatch with neural network
 
 #### Advanced matching beyond structure
